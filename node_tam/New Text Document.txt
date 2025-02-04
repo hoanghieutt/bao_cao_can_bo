@@ -1,0 +1,47 @@
+trang thcs đang làm dở và ở tại branch main chính đang thiếu 
+những commit mà testing 3719 làm trước
+
+
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+numbers.stream()
+       .filter(n -> n % 2 == 0)  // Lọc số chẵn
+       .forEach(System.out::println);
+
+List<String> names = Arrays.asList("java", "python", "c++");
+names.stream()
+     .map(String::toUpperCase)  // Chuyển thành chữ hoa
+     .forEach(System.out::println);
+
+List<Integer> numbers = Arrays.asList(5, 1, 4, 2, 3);
+numbers.stream()
+       .sorted()
+       .forEach(System.out::println);
+
+List<Integer> numbers = Arrays.asList(1, 2, 2, 3, 4, 4, 5);
+numbers.stream()
+       .distinct()
+       .forEach(System.out::println);
+
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+numbers.stream()
+       .skip(2)    // Bỏ 2 phần tử đầu tiên
+       .limit(2)   // Lấy 2 phần tử kế tiếp
+       .forEach(System.out::println);
+
+
+collect: Thu thập các phần tử thành một Collection.
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+List<Integer> evenNumbers = numbers.stream()
+                                    .filter(n -> n % 2 == 0)
+                                    .collect(Collectors.toList());
+System.out.println(evenNumbers);
+
+
+reduce: Gộp các phần tử thành một kết quả duy nhất.
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+int sum = numbers.stream()
+                 .reduce(0, Integer::sum);
+System.out.println(sum);
+
+
+
