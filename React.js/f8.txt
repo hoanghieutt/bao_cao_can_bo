@@ -1,0 +1,1 @@
+// lấy các phần tử để chuyển từ array thành objectfunction arrToObj(arr) {  return arr.reduce((obj1, arrHienTai) => {    const [key, value] = arrHienTai;    obj1[key] = value;    return obj1;  }, {});}// lấy phần còn lại của array// toán tử rest parameters...rest// toán tử Spread. . .
