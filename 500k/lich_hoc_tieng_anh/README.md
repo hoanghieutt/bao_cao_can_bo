@@ -1,6 +1,6 @@
 # Lịch học tiếng Anh — 06/08/2026 → 04/10/2026
 
-7 từ mới/ngày · Học lúc **20:00** · N1–N46 là các nhóm 7 từ.
+7 từ mới/ngày · Học lúc **20:00** · N1–N51 là các nhóm 7 từ · **60 ngày**.
 
 Mỗi ngày là một file riêng, gồm: **A.** từ mới · **B.** các nhóm cần ôn (đã liệt kê đầy đủ từ) · **C.** phần tự kiểm tra · **D.** checklist cuối buổi.
 
@@ -61,14 +61,49 @@ Mỗi ngày là một file riêng, gồm: **A.** từ mới · **B.** các nhóm
 | 51 | Thứ Sáu | 25/09/2026 | N44 | N18, N32, N38, N41, N43 | 42 | [mở](Ngay-51_25-09-2026.md) |
 | 52 | Thứ Bảy | 26/09/2026 | N45 | N19, N33, N39, N42, N44 | 42 | [mở](Ngay-52_26-09-2026.md) |
 | 53 | Chủ Nhật | 27/09/2026 | — *(ôn tập tuần)* | N40, N41, N42, N43, N44, N45 | 42 | [mở](Ngay-53_27-09-2026.md) |
-| 54 | Thứ Hai | 28/09/2026 | N46 | N21, N34, N40, N44 | 31 | [mở](Ngay-54_28-09-2026.md) |
+| 54 | Thứ Hai | 28/09/2026 | N46 | N21, N34, N40, N44 | 35 | [mở](Ngay-54_28-09-2026.md) |
+| 55 | Thứ Ba | 29/09/2026 | N47 | N35, N41, N45, N46 | 35 | [mở](Ngay-55_29-09-2026.md) |
+| 56 | Thứ Tư | 30/09/2026 | N48 | N22, N36, N42, N47 | 35 | [mở](Ngay-56_30-09-2026.md) |
+| 57 | Thứ Năm | 01/10/2026 | N49 | N23, N37, N43, N46, N48 | 42 | [mở](Ngay-57_01-10-2026.md) |
+| 58 | Thứ Sáu | 02/10/2026 | N50 | N24, N38, N44, N47, N49 | 42 | [mở](Ngay-58_02-10-2026.md) |
+| 59 | Thứ Bảy | 03/10/2026 | N51 | N25, N39, N45, N48, N50 | 42 | [mở](Ngay-59_03-10-2026.md) |
+| 60 | Chủ Nhật | 04/10/2026 | — *(ôn tập tuần)* | N46, N47, N48, N49, N50, N51 | 42 | [mở](Ngay-60_04-10-2026.md) |
 
 ---
 
-## Phần còn thiếu trong tài liệu gốc
+## Ghi chú về nguồn từ
 
-- **Nhóm N46** mới có 3/7 từ (Global warming, Greenhouse effect, Renewable energy) — thiếu 4 từ.
-- **Danh sách ôn lại của Ngày 54** không có trong bản gốc; file Ngày 54 đang dùng danh sách suy ra theo quy luật (N21, N34, N40, N44).
-- **Ngày 55 → Ngày 60** (29/09/2026 → 04/10/2026) chưa có nội dung: cần nhóm N47–N51 và một buổi ôn tập tuần vào Chủ Nhật 04/10/2026.
+**N1 – N45** lấy nguyên từ tài liệu gốc (chủ đề: cơ thể, ngoại hình, cảm xúc, gia đình, sở thích, quần áo, mua sắm, du lịch, trường học, bạn bè, tính cách, thời tiết, môi trường).
 
-Hiện có: **54 ngày** · **318 từ mới** trên tổng 46 nhóm.
+**N46 – N51** dùng danh sách **từ vựng chuyên ngành Công nghệ thông tin**:
+
+- `N46` — bản gốc chỉ có 3 từ (Global warming, Greenhouse effect, Renewable energy); đã bổ sung 4 từ CNTT đầu danh sách (Multiplication, Numeric, Operation, Output) cho đủ 7.
+- `N47` → `N51` — 35 từ CNTT tiếp theo, lấy đúng thứ tự trong danh sách.
+
+### Từ trùng — đã có, bỏ qua
+
+| Từ | Nghĩa | Đã học ở | Xử lý |
+|---|---|:-:|---|
+| History | Lịch sử | **N34** | ✅ Đã có → bỏ qua, lấy từ kế tiếp `Layer` bù vào N51 |
+
+*Ngoài ra, trong chính danh sách CNTT có vài từ lặp lại (`Perform`, `Cluster controller`, `PPP`) — chỉ lấy một lần.*
+
+### Lịch ôn của Ngày 54 → 60
+
+Tài liệu gốc chỉ ghi danh sách "Ôn lại" đến Ngày 53. Từ Ngày 54 trở đi, lịch ôn được **suy ra theo đúng quy luật của tài liệu gốc**: mỗi thứ trong tuần dùng một bộ khoảng cách nhóm cố định, Chủ Nhật ôn 6 nhóm gần nhất.
+
+| Ngày | Thứ | Nhóm mới | Ôn lại | Khoảng cách nhóm |
+|:-:|---|:-:|---|---|
+| 54 | Thứ Hai | N46 | N21, N34, N40, N44 | 25 – 12 – 6 – 2 |
+| 55 | Thứ Ba | N47 | N35, N41, N45, N46 | 12 – 6 – 2 – 1 |
+| 56 | Thứ Tư | N48 | N22, N36, N42, N47 | 26 – 12 – 6 – 1 |
+| 57 | Thứ Năm | N49 | N23, N37, N43, N46, N48 | 26 – 12 – 6 – 3 – 1 |
+| 58 | Thứ Sáu | N50 | N24, N38, N44, N47, N49 | 26 – 12 – 6 – 3 – 1 |
+| 59 | Thứ Bảy | N51 | N25, N39, N45, N48, N50 | 26 – 12 – 6 – 3 – 1 |
+| 60 | Chủ Nhật | — | N46, N47, N48, N49, N50, N51 | 6 nhóm gần nhất |
+
+Nếu bạn có bản gốc đầy đủ và lịch ôn khác, sửa lại phần **B** trong các file tương ứng.
+
+---
+
+**Tổng kết:** 60 ngày · 51 nhóm · **357 từ mới** · 9 buổi ôn tập tuần.
