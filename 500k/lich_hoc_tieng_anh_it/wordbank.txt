@@ -1,0 +1,468 @@
+#Máy tính căn bản
+computer|/kəmˈpjuː.tər/|kơm-PIU-tơr|máy tính
+hardware|/ˈhɑːd.weər/|HAD-oe-a|phần cứng (các bộ phận sờ được của máy)
+software|/ˈsɒft.weər/|SOFT-oe-a|phần mềm (chương trình chạy trên máy)
+keyboard|/ˈkiː.bɔːd/|KI-bod|bàn phím
+mouse|/maʊs/|mao-s|con chuột
+screen|/skriːn/|skrin|màn hình
+monitor|/ˈmɒn.ɪ.tər/|MON-ni-tơr|màn hình máy tính; theo dõi, giám sát
+printer|/ˈprɪn.tər/|PRIN-tơr|máy in
+#Bộ phận bên trong máy
+processor|/ˈprəʊ.ses.ər/|PRÂU-ses-sơr|bộ xử lý (CPU)
+memory|/ˈmem.ər.i/|MEM-mơ-ri|bộ nhớ (RAM)
+storage|/ˈstɔː.rɪdʒ/|STÔ-rịt|nơi lưu trữ dữ liệu (ổ đĩa)
+device|/dɪˈvaɪs/|đi-VAI-s|thiết bị
+motherboard|/ˈmʌð.ə.bɔːd/|MẤT-thơ-bod|bo mạch chủ
+chip|/tʃɪp/|chip|con chip, vi mạch
+battery|/ˈbæt.ər.i/|BÉT-tơ-ri|pin
+cable|/ˈkeɪ.bəl/|KÂY-bồ|dây cáp
+#Tệp và thư mục
+file|/faɪl/|phai-l|tệp tin
+folder|/ˈfəʊl.dər/|PHÂUL-đơr|thư mục
+document|/ˈdɒk.jə.mənt/|ĐOC-kiu-mần|tài liệu
+save|/seɪv/|sây-v|lưu lại
+open|/ˈəʊ.pən/|ÂU-pần|mở
+close|/kləʊz/|clâu-z|đóng
+delete|/dɪˈliːt/|đi-LÍT|xoá
+rename|/ˌriːˈneɪm/|ri-NÂY-m|đổi tên
+#Thao tác hằng ngày
+copy|/ˈkɒp.i/|COP-pi|sao chép
+paste|/peɪst/|pây-st|dán
+cut|/kʌt/|cắt|cắt
+undo|/ʌnˈduː/|ăn-ĐU|hoàn tác (quay lại bước trước)
+search|/sɜːtʃ/|sớch|tìm kiếm
+download|/ˌdaʊnˈləʊd/|đao-LÂU-đ|tải về máy
+upload|/ˌʌpˈləʊd/|áp-LÂU-đ|tải lên máy chủ
+install|/ɪnˈstɔːl/|in-STÔ-l|cài đặt
+#Mạng máy tính
+network|/ˈnet.wɜːk/|NÉT-uợc|mạng máy tính
+internet|/ˈɪn.tə.net/|IN-tơ-nét|mạng internet
+website|/ˈweb.saɪt/|UÉP-sai-t|trang web
+browser|/ˈbraʊ.zər/|BRAO-zơr|trình duyệt web
+server|/ˈsɜː.vər/|SỚ-vơr|máy chủ
+client|/ˈklaɪ.ənt/|CLAI-ần|máy khách, phía người dùng
+router|/ˈruː.tər/|RU-tơr|bộ định tuyến (cục phát mạng)
+connection|/kəˈnek.ʃən/|cơ-NÉC-sần|kết nối
+#Tài khoản và bảo mật
+account|/əˈkaʊnt/|ơ-CAO-n|tài khoản
+username|/ˈjuː.zə.neɪm/|IU-zơ-nâym|tên đăng nhập
+password|/ˈpɑːs.wɜːd/|PA-s-uợt|mật khẩu
+login|/ˈlɒɡ.ɪn/|LOG-in|đăng nhập
+logout|/ˈlɒɡ.aʊt/|LOG-ao-t|đăng xuất
+security|/sɪˈkjʊə.rə.ti/|si-KIU-rơ-ti|bảo mật, an ninh
+permission|/pəˈmɪʃ.ən/|pơ-MI-sần|quyền truy cập
+access|/ˈæk.ses/|ÉC-ses|truy cập
+#Lập trình cơ bản
+code|/kəʊd/|câu-đ|mã lệnh, viết code
+program|/ˈprəʊ.ɡræm/|PRÂU-grem|chương trình
+developer|/dɪˈvel.ə.pər/|đi-VEL-lơ-pơr|lập trình viên
+language|/ˈlæŋ.ɡwɪdʒ/|LÉNG-guịt|ngôn ngữ (lập trình)
+variable|/ˈveə.ri.ə.bəl/|VE-ri-ơ-bồ|biến (ô nhớ chứa giá trị)
+function|/ˈfʌŋk.ʃən/|PHĂNG-sần|hàm, chức năng
+value|/ˈvæl.juː/|VÉL-iu|giá trị
+name|/neɪm/|nây-m|tên
+#Kiểu dữ liệu
+data|/ˈdeɪ.tə/|ĐÂY-tơ|dữ liệu
+string|/strɪŋ/|strinh|chuỗi ký tự
+number|/ˈnʌm.bər/|NĂM-bơr|số
+integer|/ˈɪn.tɪ.dʒər/|IN-ti-jơr|số nguyên
+boolean|/ˈbuː.li.ən/|BU-li-ần|kiểu đúng/sai
+array|/əˈreɪ/|ơ-RÂY|mảng (dãy nhiều giá trị)
+object|/ˈɒb.dʒekt/|OB-jéct|đối tượng
+list|/lɪst/|list|danh sách
+#Câu lệnh điều khiển
+condition|/kənˈdɪʃ.ən/|cần-ĐI-sần|điều kiện
+loop|/luːp/|lup|vòng lặp
+statement|/ˈsteɪt.mənt/|STÂY-t-mần|câu lệnh
+return|/rɪˈtɜːn/|ri-TỚN|trả về (kết quả của hàm)
+break|/breɪk/|brây-k|dừng, thoát khỏi vòng lặp
+continue|/kənˈtɪn.juː/|cần-TIN-iu|bỏ qua, đi tiếp vòng sau
+default|/dɪˈfɔːlt/|đi-PHÔ-lt|mặc định
+result|/rɪˈzʌlt/|ri-ZĂL-t|kết quả
+#Lỗi và gỡ lỗi
+bug|/bʌɡ/|bắg|lỗi trong chương trình
+debug|/ˌdiːˈbʌɡ/|đi-BẮG|gỡ lỗi, dò tìm lỗi
+error|/ˈer.ər/|E-rơr|lỗi
+fix|/fɪks/|phíc-s|sửa lỗi
+issue|/ˈɪʃ.uː/|I-su|vấn đề, lỗi cần xử lý
+crash|/kræʃ/|crếch|sập, treo (chương trình dừng đột ngột)
+warning|/ˈwɔː.nɪŋ/|UO-ninh|cảnh báo
+log|/lɒɡ/|log|nhật ký chạy máy (bản ghi hoạt động)
+#Kiểm thử
+test|/test/|test|kiểm thử, bài kiểm tra
+tester|/ˈtes.tər/|TES-tơr|người kiểm thử phần mềm
+case|/keɪs/|kây-s|trường hợp (kiểm thử)
+expect|/ɪkˈspekt/|íc-SPÉCT|mong đợi (kết quả dự kiến)
+actual|/ˈæk.tʃu.əl/|ÉC-chu-ồ|thực tế (kết quả thật)
+pass|/pɑːs/|pas|đạt, qua bài kiểm thử
+fail|/feɪl/|phây-ồ|hỏng, không đạt
+report|/rɪˈpɔːt/|ri-PÓT|báo cáo
+#Cơ sở dữ liệu
+database|/ˈdeɪ.tə.beɪs/|ĐÂY-tơ-bây-s|cơ sở dữ liệu
+table|/ˈteɪ.bəl/|TÂY-bồ|bảng (trong cơ sở dữ liệu)
+row|/rəʊ/|râu|hàng, dòng dữ liệu
+column|/ˈkɒl.əm/|COL-lầm|cột dữ liệu
+record|/ˈrek.ɔːd/|RÉC-cot|bản ghi
+query|/ˈkwɪə.ri/|KUI-ri|câu truy vấn (lệnh hỏi dữ liệu)
+insert|/ɪnˈsɜːt/|in-SỚT|chèn, thêm dữ liệu vào
+update|/ʌpˈdeɪt/|áp-ĐÂY-t|cập nhật
+#Thao tác dữ liệu
+select|/sɪˈlekt/|si-LÉCT|chọn, lấy dữ liệu ra
+filter|/ˈfɪl.tər/|PHIL-tơr|lọc dữ liệu
+sort|/sɔːt/|sót|sắp xếp
+count|/kaʊnt/|cao-n|đếm
+group|/ɡruːp/|grup|nhóm, gom nhóm
+join|/dʒɔɪn/|jôi-n|nối, ghép hai bảng
+index|/ˈɪn.deks/|IN-đéc-s|chỉ mục (giúp tìm nhanh)
+backup|/ˈbæk.ʌp/|BÉC-áp|bản sao lưu
+#Web và giao diện
+frontend|/ˈfrʌnt.end/|PHRĂN-t-en|phần giao diện người dùng thấy
+backend|/ˈbæk.end/|BÉC-en|phần xử lý phía máy chủ
+interface|/ˈɪn.tə.feɪs/|IN-tơ-phây-s|giao diện
+button|/ˈbʌt.ən/|BẮT-tần|nút bấm
+form|/fɔːm/|phom|biểu mẫu nhập liệu
+page|/peɪdʒ/|pây-j|trang
+layout|/ˈleɪ.aʊt/|LÂY-ao-t|bố cục trang
+menu|/ˈmen.juː/|MEN-iu|thực đơn, danh mục chọn
+#Trao đổi dữ liệu web
+request|/rɪˈkwest/|ri-KUÉST|yêu cầu gửi lên máy chủ
+response|/rɪˈspɒns/|ri-SPON-s|phản hồi từ máy chủ
+link|/lɪŋk/|linh-k|đường liên kết
+address|/əˈdres/|ơ-ĐRÉS|địa chỉ
+domain|/dəʊˈmeɪn/|đâu-MÂY-n|tên miền
+host|/həʊst/|hâu-st|máy chủ chứa dịch vụ
+port|/pɔːt/|pót|cổng kết nối
+protocol|/ˈprəʊ.tə.kɒl/|PRÂU-tơ-col|giao thức (quy tắc truyền tin)
+#Quản lý mã nguồn
+repository|/rɪˈpɒz.ɪ.tər.i/|ri-POZ-zi-tơ-ri|kho chứa mã nguồn
+branch|/brɑːntʃ/|branh-ch|nhánh code
+commit|/kəˈmɪt/|cơ-MÍT|ghi lại một thay đổi code
+merge|/mɜːdʒ/|mớ-j|gộp nhánh code
+conflict|/ˈkɒn.flɪkt/|CON-flíc-t|xung đột khi gộp code
+push|/pʊʃ/|pút-sh|đẩy code lên kho chung
+pull|/pʊl/|pu-ồ|kéo code mới về máy
+clone|/kləʊn/|clâu-n|sao chép kho code về máy
+#Quy trình làm việc
+project|/ˈprɒdʒ.ekt/|PRO-jéc-t|dự án
+task|/tɑːsk/|tas-k|công việc, đầu việc
+deadline|/ˈded.laɪn/|ĐÉT-lai-n|hạn chót
+meeting|/ˈmiː.tɪŋ/|MI-tinh|cuộc họp
+team|/tiːm/|tim|đội, nhóm làm việc
+manager|/ˈmæn.ɪ.dʒər/|MEN-ni-jơr|người quản lý
+progress|/ˈprəʊ.ɡres/|PRÂU-grés|tiến độ
+priority|/praɪˈɒr.ə.ti/|prai-O-rơ-ti|mức ưu tiên
+#Yêu cầu phần mềm
+requirement|/rɪˈkwaɪə.mənt/|ri-KUAI-ơ-mần|yêu cầu (khách cần gì)
+feature|/ˈfiː.tʃər/|PHI-chơr|tính năng
+specification|/ˌspes.ɪ.fɪˈkeɪ.ʃən/|spés-si-phi-KÂY-sần|bản đặc tả yêu cầu chi tiết
+scope|/skəʊp/|scâu-p|phạm vi công việc
+estimate|/ˈes.tɪ.meɪt/|ÉS-ti-mây-t|ước lượng thời gian/công sức
+change|/tʃeɪndʒ/|chây-nh-j|thay đổi
+approve|/əˈpruːv/|ơ-PRU-v|phê duyệt
+release|/rɪˈliːs/|ri-LÍ-s|phát hành bản mới
+#Triển khai
+deploy|/dɪˈplɔɪ/|đi-PLÔI|triển khai lên máy chủ
+environment|/ɪnˈvaɪ.rən.mənt/|in-VAI-rần-mần|môi trường chạy phần mềm
+version|/ˈvɜː.ʃən/|VỚ-sần|phiên bản
+build|/bɪld/|bin-đ|dựng bản chạy được từ code
+run|/rʌn/|răn|chạy (chương trình)
+stop|/stɒp/|stop|dừng
+restart|/ˌriːˈstɑːt/|ri-STA-t|khởi động lại
+support|/səˈpɔːt/|sơ-PÓT|hỗ trợ
+#Hiệu năng
+performance|/pəˈfɔː.məns/|pơ-PHO-mần-s|hiệu năng, tốc độ chạy
+speed|/spiːd/|spi-đ|tốc độ
+slow|/sləʊ/|slâu|chậm
+fast|/fɑːst/|fast|nhanh
+cache|/kæʃ/|kesh|bộ nhớ đệm (lưu tạm cho nhanh)
+load|/ləʊd/|lâu-đ|tải, nạp dữ liệu
+size|/saɪz/|sai-z|kích thước
+limit|/ˈlɪm.ɪt/|LIM-mít|giới hạn
+#Hệ điều hành
+system|/ˈsɪs.təm/|SÍS-tầm|hệ thống
+window|/ˈwɪn.dəʊ/|UIN-đâu|cửa sổ (chương trình)
+desktop|/ˈdesk.tɒp/|ĐÉSK-top|màn hình nền
+setting|/ˈset.ɪŋ/|SÉT-tinh|cài đặt, thiết lập
+command|/kəˈmɑːnd/|cơ-MAN-đ|câu lệnh gõ vào máy
+terminal|/ˈtɜː.mɪ.nəl/|TỚ-mi-nồ|cửa sổ dòng lệnh
+path|/pɑːθ/|pa-th|đường dẫn tới tệp
+process|/ˈprəʊ.ses/|PRÂU-sés|tiến trình đang chạy
+#An toàn thông tin
+virus|/ˈvaɪə.rəs/|VAI-rớs|vi-rút máy tính
+threat|/θret/|thrét|mối đe doạ
+attack|/əˈtæk/|ơ-TÉC|cuộc tấn công
+hacker|/ˈhæk.ər/|HÉC-kơr|kẻ xâm nhập hệ thống
+firewall|/ˈfaɪə.wɔːl/|PHAI-ơ-uôl|tường lửa (chặn truy cập xấu)
+encrypt|/ɪnˈkrɪpt/|in-CRÍP-t|mã hoá dữ liệu
+risk|/rɪsk/|rís-k|rủi ro
+protect|/prəˈtekt/|prơ-TÉC-t|bảo vệ
+#Điện toán đám mây
+cloud|/klaʊd/|clao-đ|đám mây (máy chủ trên internet)
+service|/ˈsɜː.vɪs/|SỚ-vís|dịch vụ
+platform|/ˈplæt.fɔːm/|PLÉT-phom|nền tảng
+resource|/rɪˈzɔːs/|ri-ZÓ-s|tài nguyên (máy, bộ nhớ...)
+scale|/skeɪl/|skây-ồ|mở rộng quy mô
+container|/kənˈteɪ.nər/|cần-TÂY-nơr|hộp chứa ứng dụng (docker)
+image|/ˈɪm.ɪdʒ/|IM-mịt|ảnh hệ thống; hình ảnh
+instance|/ˈɪn.stəns/|IN-stần-s|một máy/bản chạy cụ thể
+#Từ hay dùng khi họp
+schedule|/ˈʃed.juːl/|SHÉT-diu-ồ|lịch trình
+highlight|/ˈhaɪ.laɪt/|HAI-lai-t|điểm nổi bật cần nêu
+blocker|/ˈblɒk.ər/|BLOC-kơr|thứ đang cản trở công việc
+plan|/plæn/|plen|kế hoạch
+review|/rɪˈvjuː/|ri-VIU|xem xét, rà soát
+feedback|/ˈfiːd.bæk/|PHÍT-béc|ý kiến phản hồi
+confirm|/kənˈfɜːm/|cần-PHỚM|xác nhận
+discuss|/dɪˈskʌs/|đi-SCẮS|thảo luận
+#Email công việc
+email|/ˈiː.meɪl/|I-mây-ồ|thư điện tử
+subject|/ˈsʌb.dʒekt/|SẮP-jéc-t|tiêu đề thư
+attach|/əˈtætʃ/|ơ-TÉCH|đính kèm
+reply|/rɪˈplaɪ/|ri-PLAI|trả lời thư
+forward|/ˈfɔː.wəd/|PHO-uợt|chuyển tiếp thư
+send|/send/|sen-đ|gửi
+receive|/rɪˈsiːv/|ri-SÍ-v|nhận
+regards|/rɪˈɡɑːdz/|ri-GA-đz|trân trọng (cuối thư)
+#Động từ hay dùng trong code
+create|/kriˈeɪt/|cri-ÂY-t|tạo mới
+read|/riːd/|ri-đ|đọc
+write|/raɪt/|rai-t|ghi, viết
+remove|/rɪˈmuːv/|ri-MU-v|gỡ bỏ
+add|/æd/|ét|thêm vào
+check|/tʃek/|chéc|kiểm tra
+set|/set/|sét|gán, đặt giá trị
+get|/ɡet/|gét|lấy về
+#Cấu trúc chương trình
+class|/klɑːs/|clas|lớp (khuôn mẫu tạo đối tượng)
+method|/ˈmeθ.əd/|MÉT-thớt|phương thức (hàm trong lớp)
+parameter|/pəˈræm.ɪ.tər/|pơ-RÉM-mi-tơr|tham số truyền vào hàm
+argument|/ˈɑːɡ.jə.mənt/|A-giu-mần|đối số (giá trị truyền thật)
+module|/ˈmɒdʒ.uːl/|MO-jiu-ồ|khối chức năng độc lập
+library|/ˈlaɪ.brər.i/|LAI-brơ-ri|thư viện code dùng lại
+framework|/ˈfreɪm.wɜːk/|PHRÂY-m-uợc|bộ khung phát triển sẵn
+package|/ˈpæk.ɪdʒ/|PÉC-kịt|gói phần mềm
+#Lập trình hướng đối tượng
+inherit|/ɪnˈher.ɪt/|in-HE-rít|kế thừa
+extend|/ɪkˈstend/|íc-STEN-đ|mở rộng từ lớp cha
+override|/ˌəʊ.vəˈraɪd/|âu-vơ-RAI-đ|ghi đè phương thức
+encapsulation|/ɪnˌkæp.sjəˈleɪ.ʃən/|in-kép-siu-LÂY-sần|đóng gói (giấu dữ liệu bên trong)
+property|/ˈprɒp.ə.ti/|PRO-pơ-ti|thuộc tính
+constructor|/kənˈstrʌk.tər/|cần-STRẮC-tơr|hàm khởi tạo đối tượng
+polymorphism|/ˌpɒl.iˈmɔː.fɪ.zəm/|pol-li-MO-phi-zầm|đa hình (cùng một lệnh, nhiều cách chạy)
+abstract|/ˈæb.strækt/|ÉP-strếc-t|trừu tượng (chỉ khai báo, chưa làm)
+#Xử lý ngoại lệ
+exception|/ɪkˈsep.ʃən/|íc-SÉP-sần|ngoại lệ, lỗi phát sinh
+throw|/θrəʊ/|thrâu|ném ra lỗi
+catch|/kætʃ/|kétch|bắt lỗi để xử lý
+handle|/ˈhæn.dəl/|HÉN-đồ|xử lý
+message|/ˈmes.ɪdʒ/|MÉS-sịt|thông điệp, tin nhắn lỗi
+stack|/stæk/|sték|ngăn xếp (dấu vết gọi hàm)
+trace|/treɪs/|trây-s|dấu vết chạy chương trình
+fatal|/ˈfeɪ.təl/|PHÂY-tồ|nghiêm trọng (lỗi làm chết chương trình)
+#Giao tiếp hệ thống
+payload|/ˈpeɪ.ləʊd/|PÂY-lâu-đ|dữ liệu gửi kèm theo yêu cầu
+endpoint|/ˈend.pɔɪnt/|EN-đ-pôi-n|điểm cuối API để gọi tới
+token|/ˈtəʊ.kən/|TÂU-cần|mã thông hành xác thực
+header|/ˈhed.ər/|HÉT-đơr|phần đầu chứa thông tin kèm theo
+body|/ˈbɒd.i/|BO-đi|phần thân chứa dữ liệu
+status|/ˈsteɪ.təs/|STÂY-tớs|trạng thái
+timeout|/ˈtaɪm.aʊt/|TAI-m-ao-t|hết thời gian chờ
+retry|/ˌriːˈtraɪ/|ri-TRAI|thử lại
+#Thiết kế hệ thống
+design|/dɪˈzaɪn/|đi-ZAI-n|thiết kế
+structure|/ˈstrʌk.tʃər/|STRẮC-chơr|cấu trúc
+diagram|/ˈdaɪ.ə.ɡræm/|ĐAI-ơ-grem|sơ đồ
+flow|/fləʊ/|flâu|luồng, dòng chảy công việc
+model|/ˈmɒd.əl/|MO-đồ|mô hình
+component|/kəmˈpəʊ.nənt/|cơm-PÂU-nần|thành phần
+architecture|/ˈɑː.kɪ.tek.tʃər/|A-ki-téc-chơr|kiến trúc hệ thống
+pattern|/ˈpæt.ən/|PÉT-tần|mẫu thiết kế lặp lại
+#Chất lượng phần mềm
+quality|/ˈkwɒl.ə.ti/|KUOL-lơ-ti|chất lượng
+standard|/ˈstæn.dəd/|STÉN-đợt|tiêu chuẩn
+rule|/ruːl/|ru-ồ|quy tắc
+convention|/kənˈven.ʃən/|cần-VEN-sần|quy ước đặt tên/viết code
+comment|/ˈkɒm.ent/|CO-men|chú thích trong code
+refactor|/ˌriːˈfæk.tər/|ri-PHÉC-tơr|viết lại code cho gọn, giữ nguyên chức năng
+maintain|/meɪnˈteɪn/|mây-n-TÂY-n|bảo trì
+readable|/ˈriː.də.bəl/|RI-đơ-bồ|dễ đọc, dễ hiểu
+#Người dùng
+user|/ˈjuː.zər/|IU-zơr|người dùng
+customer|/ˈkʌs.tə.mər/|CÁS-tơ-mơr|khách hàng
+role|/rəʊl/|râu-ồ|vai trò
+profile|/ˈprəʊ.faɪl/|PRÂU-phai-ồ|hồ sơ cá nhân
+register|/ˈredʒ.ɪ.stər/|RÉ-jis-tơr|đăng ký
+verify|/ˈver.ɪ.faɪ/|VE-ri-phai|xác minh
+notification|/ˌnəʊ.tɪ.fɪˈkeɪ.ʃən/|nâu-ti-phi-KÂY-sần|thông báo
+experience|/ɪkˈspɪə.ri.əns/|íc-SPI-ri-ần-s|trải nghiệm
+#Điện thoại và ứng dụng
+application|/ˌæp.lɪˈkeɪ.ʃən/|ép-li-KÂY-sần|ứng dụng
+mobile|/ˈməʊ.baɪl/|MÂU-bai-ồ|di động
+responsive|/rɪˈspɒn.sɪv/|ri-SPON-sív|co giãn hợp mọi cỡ màn hình
+tap|/tæp/|tép|chạm nhẹ
+swipe|/swaɪp/|suai-p|vuốt màn hình
+scroll|/skrəʊl/|scrâu-ồ|cuộn trang
+offline|/ˌɒfˈlaɪn/|op-LAI-n|ngoại tuyến, không mạng
+online|/ˌɒnˈlaɪn/|on-LAI-n|trực tuyến, có mạng
+#Trí tuệ nhân tạo
+algorithm|/ˈæl.ɡə.rɪ.ðəm/|ÉL-gơ-ri-thầm|thuật toán
+train|/treɪn/|trây-n|huấn luyện mô hình
+dataset|/ˈdeɪ.tə.set/|ĐÂY-tơ-sét|tập dữ liệu
+predict|/prɪˈdɪkt/|pri-ĐÍC-t|dự đoán
+accuracy|/ˈæk.jə.rə.si/|ÉC-kiu-rơ-si|độ chính xác
+label|/ˈleɪ.bəl/|LÂY-bồ|nhãn dữ liệu
+prompt|/prɒmpt/|prom-t|câu lệnh yêu cầu AI
+output|/ˈaʊt.pʊt/|AO-t-pút|kết quả đầu ra
+#Phân tích dữ liệu
+analysis|/əˈnæl.ə.sɪs/|ơ-NÉL-lơ-sís|phân tích
+chart|/tʃɑːt/|chat|biểu đồ
+average|/ˈæv.ər.ɪdʒ/|ÉV-vơ-rịt|trung bình
+total|/ˈtəʊ.təl/|TÂU-tồ|tổng cộng
+percent|/pəˈsent/|pơ-SEN-t|phần trăm
+trend|/trend/|tren-đ|xu hướng
+sample|/ˈsɑːm.pəl/|SAM-pồ|mẫu dữ liệu
+insight|/ˈɪn.saɪt/|IN-sai-t|nhận định rút ra từ dữ liệu
+#Thiết bị mạng nâng cao
+bandwidth|/ˈbænd.wɪdθ/|BÉN-đ-uít-th|băng thông
+latency|/ˈleɪ.tən.si/|LÂY-tần-si|độ trễ
+packet|/ˈpæk.ɪt/|PÉC-kít|gói tin
+switch|/swɪtʃ/|suých|bộ chuyển mạch; chuyển đổi
+gateway|/ˈɡeɪt.weɪ/|GÂY-t-uây|cổng nối ra mạng ngoài
+proxy|/ˈprɒk.si/|PROC-si|máy trung gian chuyển tiếp
+subnet|/ˈsʌb.net/|SẮP-nét|mạng con
+traffic|/ˈtræf.ɪk/|TRÉF-phíc|lưu lượng truy cập
+#Vận hành hệ thống
+monitoring|/ˈmɒn.ɪ.tər.ɪŋ/|MON-ni-tơ-rinh|việc giám sát hệ thống
+alert|/əˈlɜːt/|ơ-LỚT|cảnh báo tự động
+incident|/ˈɪn.sɪ.dənt/|IN-si-đần|sự cố
+downtime|/ˈdaʊn.taɪm/|ĐAO-n-tai-m|thời gian hệ thống ngừng chạy
+recovery|/rɪˈkʌv.ər.i/|ri-CÁ-vơ-ri|khôi phục sau sự cố
+maintenance|/ˈmeɪn.tən.əns/|MÂY-n-tần-ần-s|bảo trì định kỳ
+capacity|/kəˈpæs.ə.ti/|cơ-PÉS-sơ-ti|sức chứa, năng lực
+uptime|/ˈʌp.taɪm/|ÁP-tai-m|thời gian hệ thống chạy ổn
+#Tài liệu kỹ thuật
+documentation|/ˌdɒk.jə.menˈteɪ.ʃən/|đoc-kiu-men-TÂY-sần|bộ tài liệu kỹ thuật
+guide|/ɡaɪd/|gai-đ|hướng dẫn
+manual|/ˈmæn.ju.əl/|MÉN-iu-ồ|sách hướng dẫn; thủ công
+example|/ɪɡˈzɑːm.pəl/|íc-ZAM-pồ|ví dụ
+note|/nəʊt/|nâu-t|ghi chú
+summary|/ˈsʌm.ər.i/|SĂM-mơ-ri|tóm tắt
+detail|/ˈdiː.teɪl/|ĐI-tây-ồ|chi tiết
+description|/dɪˈskrɪp.ʃən/|đi-SCRÍP-sần|phần mô tả
+#Tính từ hay dùng
+available|/əˈveɪ.lə.bəl/|ơ-VÂY-lơ-bồ|có sẵn, dùng được
+stable|/ˈsteɪ.bəl/|STÂY-bồ|ổn định
+complex|/ˈkɒm.pleks/|COM-pléc-s|phức tạp
+simple|/ˈsɪm.pəl/|SIM-pồ|đơn giản
+valid|/ˈvæl.ɪd/|VÉL-lít|hợp lệ
+invalid|/ɪnˈvæl.ɪd/|in-VÉL-lít|không hợp lệ
+required|/rɪˈkwaɪəd/|ri-KUAI-ợt|bắt buộc phải có
+optional|/ˈɒp.ʃən.əl/|OP-sần-nồ|tuỳ chọn, không bắt buộc
+#Trạng thái công việc
+pending|/ˈpen.dɪŋ/|PEN-đinh|đang chờ xử lý
+done|/dʌn/|đăn|đã xong
+reject|/rɪˈdʒekt/|ri-JÉC-t|từ chối
+assign|/əˈsaɪn/|ơ-SAI-n|giao việc cho ai
+complete|/kəmˈpliːt/|cơm-PLÍT|hoàn thành
+delay|/dɪˈleɪ/|đi-LÂY|trì hoãn, chậm trễ
+urgent|/ˈɜː.dʒənt/|Ớ-jần|khẩn cấp
+follow up|/ˈfɒl.əʊ ʌp/|PHO-lâu áp|theo dõi tiếp việc đã bàn
+#Giao tiếp trong nhóm
+explain|/ɪkˈspleɪn/|íc-SPLÂY-n|giải thích
+suggest|/səˈdʒest/|sơ-JÉST|đề xuất
+agree|/əˈɡriː/|ơ-GRI|đồng ý
+disagree|/ˌdɪs.əˈɡriː/|đis-ơ-GRI|không đồng ý
+clarify|/ˈklær.ɪ.faɪ/|CLE-ri-phai|làm rõ
+share|/ʃeər/|she-a|chia sẻ
+remind|/rɪˈmaɪnd/|ri-MAI-n-đ|nhắc nhở
+handover|/ˈhænd.əʊ.vər/|HÉN-đ-âu-vơr|bàn giao công việc
+#Từ chỉ số lượng và đo lường
+amount|/əˈmaʊnt/|ơ-MAO-n|số lượng, mức
+range|/reɪndʒ/|rây-nh-j|khoảng, phạm vi giá trị
+minimum|/ˈmɪn.ɪ.məm/|MIN-ni-mầm|nhỏ nhất, tối thiểu
+maximum|/ˈmæk.sɪ.məm/|MÉC-si-mầm|lớn nhất, tối đa
+increase|/ɪnˈkriːs/|in-CRÍ-s|tăng lên
+decrease|/dɪˈkriːs/|đi-CRÍ-s|giảm xuống
+rate|/reɪt/|rây-t|tỉ lệ, tốc độ
+unit|/ˈjuː.nɪt/|IU-nít|đơn vị
+#Bộ nhớ và tệp nâng cao
+byte|/baɪt/|bai-t|byte (đơn vị dữ liệu)
+compress|/kəmˈpres/|cơm-PRÉS|nén dữ liệu
+extract|/ɪkˈstrækt/|íc-STRÉC-t|giải nén, trích xuất
+format|/ˈfɔː.mæt/|PHO-mét|định dạng
+export|/ɪkˈspɔːt/|íc-SPÓT|xuất dữ liệu ra
+import|/ɪmˈpɔːt/|im-PÓT|nhập dữ liệu vào
+archive|/ˈɑː.kaɪv/|A-kai-v|lưu trữ lâu dài
+directory|/daɪˈrek.tər.i/|đai-RÉC-tơ-ri|thư mục (trong dòng lệnh)
+#Bảo mật nâng cao
+authentication|/ɔːˌθen.tɪˈkeɪ.ʃən/|ô-then-ti-KÂY-sần|xác thực danh tính
+authorization|/ˌɔː.θər.aɪˈzeɪ.ʃən/|ô-thơ-rai-ZÂY-sần|phân quyền
+credential|/krəˈden.ʃəl/|crơ-ĐEN-sồ|thông tin đăng nhập
+vulnerability|/ˌvʌl.nər.əˈbɪl.ə.ti/|văl-nơ-rơ-BIL-lơ-ti|lỗ hổng bảo mật
+patch|/pætʃ/|pétch|bản vá lỗi
+policy|/ˈpɒl.ə.si/|PO-lơ-si|chính sách, quy định
+audit|/ˈɔː.dɪt/|Ô-đít|rà soát, kiểm toán
+privacy|/ˈprɪv.ə.si/|PRI-vơ-si|quyền riêng tư
+#Kiểm thử nâng cao
+scenario|/sɪˈnɑː.ri.əʊ/|si-NA-ri-âu|kịch bản kiểm thử
+coverage|/ˈkʌv.ər.ɪdʒ/|CÁ-vơ-rịt|độ bao phủ kiểm thử
+regression|/rɪˈɡreʃ.ən/|ri-GRÉ-sần|kiểm thử lại phần cũ sau khi sửa
+automation|/ˌɔː.təˈmeɪ.ʃən/|ô-tơ-MÂY-sần|tự động hoá
+checklist|/ˈtʃek.lɪst/|CHÉC-líst|bảng danh sách việc cần kiểm
+severity|/sɪˈver.ə.ti/|si-VE-rơ-ti|mức nghiêm trọng của lỗi
+reproduce|/ˌriː.prəˈdjuːs/|ri-prơ-ĐIU-s|tái hiện lại lỗi
+validate|/ˈvæl.ɪ.deɪt/|VÉL-li-đây-t|kiểm tra tính hợp lệ
+#Quy trình Agile
+sprint|/sprɪnt/|sprin-t|chu kỳ làm việc ngắn (1-2 tuần)
+backlog|/ˈbæk.lɒɡ/|BÉC-log|danh sách việc chờ làm
+standup|/ˈstænd.ʌp/|STÉN-đ-áp|họp nhanh đầu ngày
+story|/ˈstɔː.ri/|STÔ-ri|mô tả nhu cầu người dùng
+point|/pɔɪnt/|pôi-n|điểm ước lượng công sức
+retrospective|/ˌret.rəˈspek.tɪv/|rét-rơ-SPÉC-tív|họp rút kinh nghiệm cuối chu kỳ
+demo|/ˈdem.əʊ/|ĐE-mâu|buổi trình diễn sản phẩm
+milestone|/ˈmaɪl.stəʊn/|MAI-ồ-stâu-n|mốc quan trọng của dự án
+#Hợp đồng và khách hàng
+stakeholder|/ˈsteɪk.həʊl.dər/|STÂY-k-hâul-đơr|bên liên quan tới dự án
+contract|/ˈkɒn.trækt/|CON-trếc-t|hợp đồng
+budget|/ˈbʌdʒ.ɪt/|BÁ-jít|ngân sách
+cost|/kɒst/|cost|chi phí
+invoice|/ˈɪn.vɔɪs/|IN-vôi-s|hoá đơn
+proposal|/prəˈpəʊ.zəl/|prơ-PÂU-zồ|bản đề xuất
+negotiate|/nəˈɡəʊ.ʃi.eɪt/|nơ-GÂU-shi-ây-t|thương lượng
+sign|/saɪn/|sai-n|ký kết
+#Nghề nghiệp CNTT
+engineer|/ˌen.dʒɪˈnɪər/|en-ji-NI-a|kỹ sư
+intern|/ˈɪn.tɜːn/|IN-tơn|thực tập sinh
+junior|/ˈdʒuː.ni.ər/|JU-ni-ơr|người mới, ít kinh nghiệm
+senior|/ˈsiː.ni.ər/|SI-ni-ơr|người nhiều kinh nghiệm
+skill|/skɪl/|skiồ|kỹ năng
+portfolio|/pɔːtˈfəʊ.li.əʊ/|pót-PHÂU-li-âu|hồ sơ sản phẩm đã làm
+interview|/ˈɪn.tə.vjuː/|IN-tơ-viu|phỏng vấn
+salary|/ˈsæl.ər.i/|SÉL-lơ-ri|lương
+#Công cụ hằng ngày
+tool|/tuːl/|tu-ồ|công cụ
+editor|/ˈed.ɪ.tər/|É-đi-tơr|trình soạn thảo code
+plugin|/ˈplʌɡ.ɪn/|PLẮG-in|tiện ích cắm thêm
+shortcut|/ˈʃɔːt.kʌt/|SHÓT-cắt|phím tắt
+template|/ˈtem.pleɪt/|TEM-plây-t|mẫu có sẵn
+config|/kənˈfɪɡ/|cần-PHÍG|tệp cấu hình
+script|/skrɪpt/|scríp-t|đoạn mã tự động chạy
+task runner|/tɑːsk ˈrʌn.ər/|tas-k RĂN-nơr|công cụ chạy việc tự động
+#Từ nối và mẫu câu công việc
+according to|/əˈkɔː.dɪŋ tuː/|ơ-CO-đinh tu|theo như, dựa theo
+due to|/djuː tuː/|điu tu|do bởi, vì
+in progress|/ɪn ˈprəʊ.ɡres/|in PRÂU-grés|đang thực hiện
+as soon as possible|/əz suːn əz ˈpɒs.ə.bəl/|ợz sun ợz PO-sơ-bồ|càng sớm càng tốt
+let me know|/let miː nəʊ/|lét mi nâu|hãy báo cho tôi biết
+make sure|/meɪk ʃɔːr/|mây-k sho|đảm bảo rằng
+work on|/wɜːk ɒn/|uợc on|đang làm việc với
+take care of|/teɪk keər ɒv/|tây-k ke-a ov|đảm nhận, lo phần việc
+#Từ viết tắt hay gặp
+API|/ˌeɪ.piːˈaɪ/|ây-pi-AI|giao diện cho phần mềm gọi nhau
+UI|/ˌjuːˈaɪ/|iu-AI|giao diện người dùng
+UX|/ˌjuːˈeks/|iu-ÉC-s|trải nghiệm người dùng
+IT|/ˌaɪˈtiː/|ai-TI|công nghệ thông tin
+PC|/ˌpiːˈsiː/|pi-SI|máy tính cá nhân
+OS|/ˌəʊˈes/|âu-ÉS|hệ điều hành
+URL|/ˌjuːɑːˈel/|iu-a-EL|địa chỉ trang web
+FAQ|/ˌef.eɪˈkjuː/|ép-ây-KIU|câu hỏi thường gặp
