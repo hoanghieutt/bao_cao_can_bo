@@ -4,6 +4,8 @@
 
 Mỗi ngày là một file riêng, gồm: **A.** từ mới · **B.** các nhóm cần ôn (đã liệt kê đầy đủ từ) · **C.** phần tự kiểm tra · **D.** checklist cuối buổi.
 
+Mọi bảng từ đều có cột **Loại từ**, viết tắt: **n** danh từ · **v** động từ · **adj** tính từ · **phr v** cụm động từ. Toàn bộ 357 từ cũng được gom thành 36 list, mỗi list 10 từ, trong [Danh-sach-10-tu.md](Danh-sach-10-tu.md).
+
 ---
 
 | Ngày | Thứ | Ngày tháng | Nhóm mới | Ôn lại | Tổng từ | File |
@@ -68,6 +70,27 @@ Mỗi ngày là một file riêng, gồm: **A.** từ mới · **B.** các nhóm
 | 58 | Thứ Sáu | 02/10/2026 | N50 | N24, N38, N44, N47, N49 | 42 | [mở](Ngay-58_02-10-2026.md) |
 | 59 | Thứ Bảy | 03/10/2026 | N51 | N25, N39, N45, N48, N50 | 42 | [mở](Ngay-59_03-10-2026.md) |
 | 60 | Chủ Nhật | 04/10/2026 | — *(ôn tập tuần)* | N46, N47, N48, N49, N50, N51 | 42 | [mở](Ngay-60_04-10-2026.md) |
+
+---
+
+## Loại từ
+
+| Viết tắt | Loại từ | Số từ |
+|:-:|---|:-:|
+| **n** | danh từ (kể cả cụm danh từ) | 249 |
+| **v** | động từ | 27 |
+| **adj** | tính từ | 86 |
+| **phr v** | cụm động từ | 2 |
+
+*Một từ có thể thuộc hai loại tuỳ nghĩa, nên tổng ở bảng trên lớn hơn 357.* Có 7 từ như vậy — loại từ ghi theo đúng thứ tự nghĩa:
+
+- **Shop** — Cửa hàng *(n)*, mua sắm *(v)*
+- **Bargain** — Món hời *(n)*, mặc cả *(v)*
+- **Output** — Ra *(n)*, đưa ra *(v)*
+- **Register** — Thanh ghi *(n)*, đăng ký *(v)*
+- **Tape** — Ghi băng *(v)*, băng *(n)*
+- **Command** — Ra lệnh *(v)*, lệnh (trong máy tính) *(n)*
+- **Experiment** — Tiến hành thí nghiệm *(v)*, cuộc thí nghiệm *(n)*
 
 ---
 
