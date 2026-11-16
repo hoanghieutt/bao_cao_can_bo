@@ -1,5 +1,7 @@
 # Danh sách từ vựng — mỗi list 10 từ
 
+Mỗi **List k** trùng với nhóm **Nk** trong lịch học (10 từ/ngày, xem [README](README.md)) và với bộ thẻ Quizlet `500k list 1 (…)` trong thư mục *500k*.
+
 Mẫu mỗi dòng: `từ tiếng Anh (cách đọc), (loại từ) nghĩa tiếng Việt`. Phần viết HOA trong cách đọc là âm tiết mang trọng âm.
 
 - **Loại từ** viết tắt, đứng ngay trước nghĩa: **n** danh từ · **v** động từ · **adj** tính từ · **phr v** cụm động từ (như *Try on*, *Figure out*). Cụm danh từ (như *Credit card*, *Remote access*) cũng ghi là **n**.
